@@ -316,19 +316,19 @@
         color: white;
         margin-left: 30px;
     }
-    h4 {
+    .new_con_text > h4 {
         font-size: 6px;
         color: white;
     }
-    h2 {
+    .new_con_text > h2 {
         font-size: 20px;
         color: white;
     }
-    p {
+    .new_con_text > p {
         font-size: 13px;
         color: white;
     }
-    h4:hover, h2:hover, p:hover {
+    .new_con_text > h4:hover, .new_con_text > h2:hover, .new_con_text > p:hover {
         text-decoration: underline;
     }
 
@@ -1220,19 +1220,19 @@
     color: white;
     margin-left: 30px;
 }
-h4 {
+.new_con_text > h4 {
     font-size: 6px;
     color: white;
 }
-h2 {
+.new_con_text > h2 {
     font-size: 20px;
     color: white;
 }
-p {
+.new_con_text > p {
     font-size: 13px;
     color: white;
 }
-h4:hover, h2:hover, p:hover {
+.new_con_text > h4:hover, .new_con_text > h2:hover, .new_con_text > p:hover {
     text-decoration: underline;
 }
 
