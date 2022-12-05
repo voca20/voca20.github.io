@@ -325,8 +325,9 @@ body {
 }
 @media (max-width: 1300px) {
     body {
-        width: 100%;
-        background-size: contain;
+        background-image: url('background.gif');
+        background-size: 100%;
+        background-repeat: no-repeat;
     }    
     .maintext {
         line-height: 500px;
