@@ -534,6 +534,7 @@ a {
     }
     .new_con_text > h4:hover, .new_con_text > h2:hover, .new_con_text > p:hover {
         text-decoration: underline;
+	color: white;
     }
     
     .hr-solid {
