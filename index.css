@@ -520,19 +520,19 @@ a {
         color: white;
         margin-left: 30px;
     }
-    .new_con_text > h4 {
+    a > h4 {
         font-size: 6px;
         color: white;
     }
-    .new_con_text > h2 {
+    a > h2 {
         font-size: 20px;
         color: white;
     }
-    .new_con_text > p {
+    a > p {
         font-size: 13px;
         color: white;
     }
-    .new_con_text > h4:hover, .new_con_text > h2:hover, .new_con_text > p:hover {
+    a > h4:hover, a > h2:hover, a > p:hover {
         text-decoration: underline;
 	color: white;
     }
