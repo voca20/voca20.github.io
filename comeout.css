@@ -343,7 +343,7 @@ a {
     position: absolute;
     border-radius: 0.8rem;
 }
-.cards > img {
+.cards li > img {
     border-radius: 0.8rem;
 }
 
